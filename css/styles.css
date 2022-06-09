@@ -33,7 +33,7 @@ body{
    padding: 0;
  }
  
- /* HEADER START */
+
  header{
    background-color:#1f2937;
    color: #fff;
@@ -128,9 +128,7 @@ body{
   
  } 
  
- /* HEADER END */
-
- /* Info section start */
+ 
 
  .info-section h1 {
    color: #1f2937;
@@ -166,9 +164,7 @@ body{
    margin-bottom: 0.5rem;
 }   
 
-/* info section ends */
 
- /* QUOTES */
  .quotes{
    background-color: #e5e7eb;
    padding: 4rem 20rem;
@@ -186,11 +182,6 @@ body{
    text-align: right;
  }
  
- /* quotes end */
-
-   
-
- /* ACTION */
  .action{
    color: #ffff;
    margin-top: 3rem;
@@ -224,7 +215,6 @@ body{
  .action-text p {
    font-size: 8px;
  }
- /* footer */
 
  footer{
    color: #fff;
@@ -251,12 +241,6 @@ body{
        display: block;
      }
    
-
-   /* .banner-right {
-     flex-wrap: wrap;
-   
-   } */
-
    .info-boxes{
      flex-direction: column;
      margin-left: 11rem;
